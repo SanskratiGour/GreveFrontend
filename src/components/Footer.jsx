@@ -87,11 +87,9 @@ import {
     return (
       <Container>
         <Left>
-          <Logo>LAMA.</Logo>
+          <Logo>Heart of Plant</Logo>
           <Desc>
-            There are many variations of passages of Lorem Ipsum available, but
-            the majority have suffered alteration in some form, by injected
-            humour, or randomised words which don’t look even slightly believable.
+            Plants are predominantly photosynthetic eukaryotes of the kingdom Plantae.
           </Desc>
           <SocialContainer>
             <SocialIcon color="3B5999">
@@ -113,26 +111,21 @@ import {
           <List>
             <ListItem>Home</ListItem>
             <ListItem>Cart</ListItem>
-            <ListItem>Man Fashion</ListItem>
-            <ListItem>Woman Fashion</ListItem>
-            <ListItem>Accessories</ListItem>
-            <ListItem>My Account</ListItem>
-            <ListItem>Order Tracking</ListItem>
-            <ListItem>Wishlist</ListItem>
-            <ListItem>Wishlist</ListItem>
+            <ListItem>Plant Details</ListItem>
+            <ListItem>Plant Categories</ListItem>
             <ListItem>Terms</ListItem>
           </List>
         </Center>
         <Right>
           <Title>Contact</Title>
           <ContactItem>
-            <Room style={{marginRight:"10px"}}/> 622 Dixie Path , South Tobinchester 98336
+            <Room style={{marginRight:"10px"}}/> Kormangala,Bangalore,India
           </ContactItem>
           <ContactItem>
-            <Phone style={{marginRight:"10px"}}/> +1 234 56 78
+            <Phone style={{marginRight:"10px"}}/> +91 927363782
           </ContactItem>
           <ContactItem>
-            <MailOutline style={{marginRight:"10px"}} /> contact@lama.dev
+            <MailOutline style={{marginRight:"10px"}} /> greve.3@gmail.com
           </ContactItem>
           <Payment src="https://i.ibb.co/Qfvn4z6/payment.png" />
         </Right>
